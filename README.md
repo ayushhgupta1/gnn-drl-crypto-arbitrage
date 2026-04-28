@@ -85,9 +85,7 @@ The dashboard provides real-time monitoring of:
 
 ### Preview
 
-```
-![Streamlit Dashboard](./streamlit.png)
-```
+![Streamlit Dashboard](streamlit.png)
 
 ---
 
