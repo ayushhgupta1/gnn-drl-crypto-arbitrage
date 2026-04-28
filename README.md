@@ -94,7 +94,6 @@ The dashboard provides real-time monitoring of:
 ## Project Structure
 
 ```
-crypto_rl/
 
 ├── app.py                         # Streamlit dashboard
 ├── data_feed.py                  # Market data ingestion
